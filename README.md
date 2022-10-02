@@ -5,7 +5,7 @@
 🟨▪ Digital Marketing Specialist
 🔳▪ Web Designer & Developer
 🟨▪ Digital Entrepreneur
-🔳▪ Founder - The Scholar Academy
+🔳▪ Founder - Shikhbo
 
 👨‍💻 Skills & Experiance:
 VUE JS / Wordpress / REACT / PHP / JavaScript
