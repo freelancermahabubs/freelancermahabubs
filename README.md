@@ -1,18 +1,4 @@
 ### Hi there 👋, my name is Freelancer Mahabub
-#### I am Full Stack Web Application Developer from  Bangladesh and Content Creator on YouTube. I Spend most of time coding outstanding projects or recording tutorials.
-
-
-🟨▪ Digital Marketing Specialist
-🔳▪ Web Designer & Developer
-🟨▪ Digital Entrepreneur
-🔳▪ Founder - Shikhbo
-
-👨‍💻 Skills & Experiance:
-VUE JS / Wordpress / REACT / PHP / JavaScript
- ✅HTML5 / CSS / SASS / Bootstrap
- ✅NEXT.JS/ TAILWDIN /GIT/MONGODB/NODEJS   ✅Photoshop / Illustrator
-
-
 - 🔭 I’m currently working on Web Design and Development 
 - 🌱 I’m currently learning Computer Programming  
 - 🤔 I’m looking for help with for people who can help me with Outstanding Video ideas and executions. 
