@@ -1,7 +1,6 @@
 ![Web Developer](https://scontent.fdac110-1.fna.fbcdn.net/v/t39.30808-6/329020063_1424660051692837_5588969094651784044_n.png?_nc_cat=111&cb=99be929b-3346023f&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHw0dOHLG-vDTfV-Uo0YBxt-7Rxc6WEoVj7tHFzpYShWDNrsmmWGhV9P3BdCXGnsN6O-mSui6fhtlJNRXt7wJni&_nc_ohc=2oFtMy-va2oAX-TtwpY&_nc_ht=scontent.fdac110-1.fna&oh=00_AfA4fR_ZpA0ed3Akz1NdEUv6NweNwLSyyn7afREMd6OI7Q&oe=64745D17)
 ### Hi there 👋, MD. Mahabub Alom
 #### I am Digital Entrepreneur | Educator | Programming Enthusiast | Founder - Learn with Mahabub
-![I am Digital Entrepreneur | Educator | Programming Enthusiast | Founder - Learn with Mahabub]
 
 Hey, there 👋 I am MD. Mahabub Alom from Bangladesh. I'm a self-taught web developer who always passionate about expanding and broadening technical knowledge by learning new technologies. I am always eager to understand how and why of the technologies before deep diving into it. Currently, I am expanding my knowledge on JavaScript
 
