@@ -10,7 +10,7 @@ Skills: REACT/ JS/ HTML/ CSS/ TAILWINDCSS/ BOOSTRAP/ NODE.JS/ MONGODB/ EXPRESS.J
 - 🌱 I’m currently learning Computer Programming  
 - 🤔 I’m looking for help with for people who can help me with Outstanding Video ideas and executions.  
 - 💬 Ask me about Web Development & Programming 
-- 📫 How to reach me: mdmahabuba468@gmail.com 
+- 📫 How to reach me:info.freelancermahabub@gmail.com
 - ⚡ Fun fact: Programming is My Dream 
 
 
