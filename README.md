@@ -90,11 +90,11 @@ Hey, there 👋 I am MD. Mahabub Alom from Bangladesh. I'm a self-taught web dev
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/coddermoon/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=coddermoon"  height="30">
+<a href="https://github.com/freelancermahabubs/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=freelancermahabubs"  height="30">
 </a>
-<a href="https://github.com/coddermoon?tab=followers">
-<img src="https://img.shields.io/github/followers/coddermoon?label=Followers&style=social" alt="GitHub Badge"  height="30"></a><br/>
+<a href="https://github.com/freelancermahabubs?tab=followers">
+<img src="https://img.shields.io/github/followers/freelancermahabubs?label=Followers&style=social" alt="GitHub Badge"  height="30"></a><br/>
 
 <!-- random coate -->
 
