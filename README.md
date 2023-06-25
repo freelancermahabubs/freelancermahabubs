@@ -51,9 +51,9 @@ Hey, there 👋 I am MD. Mahabub Alom from Bangladesh. I'm a self-taught web dev
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="./code.png"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="./postman.png"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="./heroku.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/freelancermahabubs/freelancer-mahabubs/blob/main/src/components/freelancermahabub/code.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/freelancermahabubs/freelancer-mahabubs/blob/main/src/components/freelancermahabub/postman.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/freelancermahabubs/freelancer-mahabubs/blob/main/src/components/freelancermahabub/heroku.png"/> </a>
 
 </p>
 <br/>
