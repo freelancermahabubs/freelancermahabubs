@@ -1,36 +1,103 @@
-![Web Developer](https://scontent.fdac110-1.fna.fbcdn.net/v/t39.30808-6/329020063_1424660051692837_5588969094651784044_n.png?_nc_cat=111&cb=99be929b-3346023f&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHw0dOHLG-vDTfV-Uo0YBxt-7Rxc6WEoVj7tHFzpYShWDNrsmmWGhV9P3BdCXGnsN6O-mSui6fhtlJNRXt7wJni&_nc_ohc=2oFtMy-va2oAX-TtwpY&_nc_ht=scontent.fdac110-1.fna&oh=00_AfA4fR_ZpA0ed3Akz1NdEUv6NweNwLSyyn7afREMd6OI7Q&oe=64745D17)
-### Hi there 👋, MD. Mahabub Alom
-#### I am Digital Entrepreneur | Educator | Programming Enthusiast | Founder - Learn with Mahabub
+![Design and Development](https://github.com/coddermoon/coddermoon/blob/main/cover.png)
 
+# MD. Mahabub Alom
+
+I am Digital Entrepreneur | Educator | Programming Enthusiast | Founder - Learn with Mahabub
 Hey, there 👋 I am MD. Mahabub Alom from Bangladesh. I'm a self-taught web developer who always passionate about expanding and broadening technical knowledge by learning new technologies. I am always eager to understand how and why of the technologies before deep diving into it. Currently, I am expanding my knowledge on JavaScript
 
-Skills: REACT/ JS/ HTML/ CSS/ TAILWINDCSS/ BOOSTRAP/ NODE.JS/ MONGODB/ EXPRESS.JS/ FIREBASE
+## About Me
 
-- 🔭 I’m currently working on Web Design and Development  
-- 🌱 I’m currently learning Computer Programming  
-- 🤔 I’m looking for help with for people who can help me with Outstanding Video ideas and executions.  
-- 💬 Ask me about Web Development & Programming 
+- 🌱 I’m currently learning MERN Stack Development
+- 💬 Ask me about **Web Solutions**
 - 📫 How to reach me: info.freelancermahabub@gmail.com
-- ⚡ Fun fact: Programming is My Dream 
+- ⚡ Fun fact **I Think i'm funny too 😃**
+  <br/><br/>
 
+#### :muscle: Things I am challenging myself with:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/freelancermahabubs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/freelancermahabubs/?originalSubdomain=bd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/freelancermahabubs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/mahabubfans)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@FreelancerMahabub/videos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://delightful-cranachan-e429b7.netlify.app/#)  
+- Waking up earlier to make good use of the day
+- Coding at least 4 hours a day
+- Exercising 3 days a week
+- Improving my CV with some education apart from university
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/freelancermahabubs)](https://github.com/ryo-ma/github-profile-trophy)
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Technologies that I know</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/freelancermahabubs)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/freelancermahabubs&show_icons=true)  
+<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/> 
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="30"/> <img src=" 	https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="30"/>
+ <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30"/>
+   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="30"/>
+     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="30"/>
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" height="30"/>
+     <img src="https://img.shields.io/badge/-express-20232A?style=flat&logo=express&logoColor=FFFFFF" height="30"/>
+</p>
+<br/>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/freelancermahabubs)  
+<!-- tools -->
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Tools</h2>
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/freelancermahabubs)  
+<br>
+<p align="left">
+ <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="./code.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="./postman.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="./heroku.png"/> </a>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/freelancermahabubs)  
+</p>
+<br/>
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/freelancermahabubs)  
+<!-- social links -->
 
+## Connect with me:
 
+<p align="left">
+<a href = "https://www.facebook.com/freelancermahabubs/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+<a href = "https://www.linkedin.com/in/freelancermahabubs/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/mahabubfans"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/freelancermahabubs/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
+</p>
+
+<!-- github states and trofee -->
+<p align="center">
+   <table>
+   <h1 align="center">Github Stats</h1>
+       <tr>
+       <td><img alt="coddermoon :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=coddermoon&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td><img alt="coddermoon :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coddermoon&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
+     </tr>
+     <tr>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=coddermoon&theme=blue-green&hide_border=true"></td>
+     </tr>
+   </table>
+</p>
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=coddermoon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## ❤ Views and Followers
+
+<a href="https://github.com/coddermoon/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=coddermoon"  height="30">
+</a>
+<a href="https://github.com/coddermoon?tab=followers">
+<img src="https://img.shields.io/github/followers/coddermoon?label=Followers&style=social" alt="GitHub Badge"  height="30"></a><br/>
+
+<!-- random coate -->
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
