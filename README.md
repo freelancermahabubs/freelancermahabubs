@@ -16,8 +16,8 @@ Hey, there 👋 I am MD. Mahabub Alom from Bangladesh. I'm a self-taught web dev
 #### :muscle: Things I am challenging myself with:
 
 - Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
+- Coding at least 8+ hours a day
+- Exercising 7 days a week
 - Improving my CV with some education apart from university
 
 <br />
