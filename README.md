@@ -7,7 +7,7 @@ Hey, there 👋 I am MD. Mahabub Alom from Bangladesh. I'm a self-taught web dev
 
 ## About Me
 
-- 🌱 I’m currently learning MERN Stack Development
+- 🌱 I’m currently learning Python
 - 💬 Ask me about **Web Solutions**
 - 📫 How to reach me: info.freelancermahabub@gmail.com
 - ⚡ Fun fact **I Think i'm funny too 😃**
