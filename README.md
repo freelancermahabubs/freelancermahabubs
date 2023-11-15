@@ -3,7 +3,7 @@
 # MD. Mahabub Alom
 
 I am Digital Entrepreneur | Educator | Programming Enthusiast | Founder - Learn with Mahabub
-Hey, there 👋 I am MD. Mahabub Alom from Bangladesh. I'm a self-taught web developer who always passionate about expanding and broadening technical knowledge by learning new technologies. I am always eager to understand how and why of the technologies before deep diving into it. Currently, I am expanding my knowledge on JavaScript
+Hey, there 👋 I am MD. Mahabub Alom from Bangladesh. I'm a self-taught web developer who always passionate about expanding and broadening technical knowledge by learning new technologies. I am always eager to understand how and why of the technologies before deep diving into it. Currently, I am expanding my knowledge on JavaScript, Typescrit & Python
 
 ## About Me
 
