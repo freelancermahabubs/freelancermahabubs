@@ -47,7 +47,7 @@ Hey, there 👋 I am MD. Mahabub Alom from Bangladesh. I'm a self-taught web dev
      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30"/> 
      <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" height="30"/> 
      <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30"/> 
-     <img src="https://img.shields.io/wordpress/plugin/required-php/?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30"/> 
+     <img src="https://img.shields.io/wordpress/plugin/required-php?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30"/> 
      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30"/> 
      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="30"/> 
      <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" height="30"/> 
