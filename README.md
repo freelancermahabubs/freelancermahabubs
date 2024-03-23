@@ -7,7 +7,7 @@ Hey, there 👋 I am MD. Mahabub Alom from Bangladesh. I'm a self-taught web dev
 
 ## About Me
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C & C++
 - 💬 Ask me about **Web Solutions**
 - 👯 I’m looking to collaborate on [EduFixup](https://edufixup.com/)
 - 📫 How to reach me: info.freelancermahabub@gmail.com
