@@ -59,7 +59,7 @@ Hey, there 👋 I am MD. Mahabub Alom from Bangladesh. I'm a self-taught web dev
 </p>
 <br/>
 
-<h2><span width='50'>🤖</span> &nbsp; Artificial Intelligence and Bots</h2>
+<h2><span width='50'>🤖</span>&nbsp;Artificial Intelligence and Bots</h2>
 <p align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/> 
