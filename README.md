@@ -24,7 +24,22 @@ Hey, there 👋 I am MD. Mahabub Alom from Bangladesh. I'm a self-taught web dev
 <br />
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Languages that I know</h2>
+<br/>
+<!-- social links -->
 
+## Connect with me:
+
+<p align="left">
+<a href = "https://www.facebook.com/freelancermahabubs/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+<a href = "https://www.youtube.com/c/FreelancerMahabub/"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
+<a href = "https://www.linkedin.com/in/freelancermahabubs/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/mahabubfans"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/freelancermahabubs/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://leetcode.com/mdmahabubalom/"> <img width="44" height="44" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/> </a>
+<a href = "https://www.hackerrank.com/profile/mdmahabubalom/"> <img width="44" height="44" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"/> </a>
+<a href = "https://codeforces.com/profile/freelancermahabub/"> <img width="44" height="44" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-filled-tal-revivo.png" alt="external-codeforces-programming-competitions-and-contests-programming-community-logo-filled-tal-revivo"/> </a>
+
+</p>
 <br>
 <p align="center">
 	
@@ -150,22 +165,6 @@ Hey, there 👋 I am MD. Mahabub Alom from Bangladesh. I'm a self-taught web dev
 
 </p>
 <br/>
-
-<!-- social links -->
-
-## Connect with me:
-
-<p align="left">
-<a href = "https://www.facebook.com/freelancermahabubs/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
-<a href = "https://www.youtube.com/c/FreelancerMahabub/"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
-<a href = "https://www.linkedin.com/in/freelancermahabubs/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/mahabubfans"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/freelancermahabubs/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://leetcode.com/mdmahabubalom/"> <img width="44" height="44" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/> </a>
-<a href = "https://www.hackerrank.com/profile/mdmahabubalom/"> <img width="44" height="44" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"/> </a>
-<a href = "https://codeforces.com/profile/freelancermahabub/"> <img width="44" height="44" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-filled-tal-revivo.png" alt="external-codeforces-programming-competitions-and-contests-programming-community-logo-filled-tal-revivo"/> </a>
-
-</p>
 
 <!-- github states and trofee -->
 <p align="center">
