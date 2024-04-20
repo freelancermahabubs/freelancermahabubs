@@ -38,7 +38,7 @@ Hey, there 👋 I am MD. Mahabub Alom from Bangladesh. I'm a self-taught web dev
      <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" height="30"/> 
      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="30"/> 
      <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" height="30"/>
-
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
  
 </p>
 <br/>
