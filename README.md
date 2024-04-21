@@ -3,10 +3,9 @@
 # MD. Mahabub Alom
 
 - 🥅 2024 Goals: To become codeforces pupil and solve 2000+ problems 
-- 🥅 2025 Goals: To become codeforces specialist
-- 🥅 2026 Goals: To crack tech giant
-- 🥅 2027 Goals: To bring love of my life home 
-- 🥅 2028 Goals: To solve 1095 problems on Leetcode
+- 🥅 2025 Goals: To crack tech giant
+- 🥅 2026 Goals: To bring love of my life home 
+- 🥅 2027 Goals: To solve 1095 problems on Leetcode
  <br/>
 
 I am Digital Entrepreneur | Educator | Programming Enthusiast | Problem Solver, & Teacher | Founder - Learn with Mahabub
