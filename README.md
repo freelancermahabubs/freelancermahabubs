@@ -2,7 +2,6 @@
 
 # MD. Mahabub Alom
 
- #### I'm a Learner, Problem Solver, Developer, and Teacher!!
 - 🥅 2024 Goals: To become codeforces pupil and solve 2000+ problems 
 - 🥅 2025 Goals: To become codeforces specialist
 - 🥅 2026 Goals: To crack tech giant
