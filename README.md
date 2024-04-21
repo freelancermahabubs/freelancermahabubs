@@ -21,6 +21,14 @@ Hey, there 👋 I am MD. Mahabub Alom from Bangladesh. I'm a self-taught web dev
 - Exercising 7 days a week
 - Improving my CV with some education apart from university
 <br />
+
+
+I'm a Learner, Problem Solver, Developer, and Teacher!!
+🥅 2024 Goals: To become codeforces pupil and solve 2000+ problems 
+🥅 2025 Goals: To become codeforces specialist
+🥅 2026 Goals: To crack tech giant
+🥅 2027 Goals: To bring love of my life home 
+🥅 2028 Goals: To solve 1095 problems on Leetcode
 <!-- social links -->
 
 ## Connect with me:
