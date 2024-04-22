@@ -1,4 +1,5 @@
 ![Design and Development](https://i.ibb.co/Z6tnZYh/MD-Mahabub-Alom.gif)
+
 # MD. Mahabub Alom
 
 - 🥅 2024 Goals: To become codeforces pupil and solve 2000+ problems 
@@ -9,7 +10,7 @@
  
 ## About Me
 
-I am Digital Entrepreneur | Educator | Programming Enthusiast | Problem Solver, & Teacher | Founder - Learn with Mahabub
+I am Digital Entrepreneur | Educator | Programming Enthusiast | Problem Solver & Founder - Learn with Mahabub
 Hey, there 👋 I am MD. Mahabub Alom from Bangladesh. I'm a self-taught web developer who always passionate about expanding and broadening technical knowledge by learning new technologies. I am always eager to understand how and why of the technologies before deep diving into it. Currently, I am expanding my knowledge on JavaScript, Typescrit & Python
 
 - 🌱 I’m currently learning C & C++
