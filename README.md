@@ -34,7 +34,7 @@ Hey, there 👋 I am MD. Mahabub Alom from Bangladesh. I'm a self-taught web dev
 <p align="left">
 <a href = "https://www.facebook.com/freelancermahabubs/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 <a href = "https://www.youtube.com/c/FreelancerMahabub/"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
-<a href = "https://www.youtube.com/c/learnwithmahabub/"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
+<a href = "https://www.youtube.com/@learnwithmahabub/videos"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
 <a href = "https://www.linkedin.com/in/freelancermahabubs/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/mahabubfans"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/freelancermahabubs/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
