@@ -177,7 +177,7 @@ Hey, there 👋 I am MD. Mahabub Alom from Bangladesh. I'm a self-taught web dev
    <h1 align="center">Github Stats</h1>
        <tr>
        <td><img alt="freelancermahabubs :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=freelancermahabubs&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-  <td><img alt="freelancermahabubs :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?freelancermahabubs&langs_count=14&theme=blue-green&layout=compact&hide=html"/> 
+  <td><img alt="freelancermahabubs :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freelancermahabubs&langs_count=14&theme=blue-green&layout=compact&hide=html"/> 
   </td>
      </tr>
      <tr>
