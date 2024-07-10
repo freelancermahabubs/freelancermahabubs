@@ -13,7 +13,7 @@
 I am Digital Entrepreneur | Educator | Programming Enthusiast | Problem Solver & Founder - Learn with Mahabub
 Hey, there 👋 I am MD. Mahabub Alom from Bangladesh. I'm a self-taught web developer who always passionate about expanding and broadening technical knowledge by learning new technologies. I am always eager to understand how and why of the technologies before deep diving into it. Currently, I am expanding my knowledge on JavaScript, Typescrit & Python
 
-- 🌱 I’m currently learning C & C++
+- 🌱 I’m currently learning Phython & Nestjs
 - 💬 Ask me about **Web Solutions**
 - 👯 I’m looking to collaborate on [EduFixup](https://edufixup.com/)
 - 📫 How to reach me: info.freelancermahabub@gmail.com
