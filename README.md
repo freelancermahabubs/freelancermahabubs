@@ -15,7 +15,7 @@ Hey, there 👋 I am MD. Mahabub Alom from Bangladesh. I'm a self-taught web dev
 
 - 🌱 I’m currently learning Phython & Nestjs
 - 💬 Ask me about **Web Solutions**
-- 👯 I’m looking to collaborate on [EduFixup](https://edufixup.com/)
+- 👯 I’m looking to collaborate on [Technogenix Solutions](technogenixsolutions.com)
 - 📫 How to reach me: info.freelancermahabub@gmail.com
 - ⚡ Fun fact **I Think i'm funny too 😃**
   <br/><br/>
