@@ -3,10 +3,25 @@
 # MD. Mahabub Alom
 ## About Me
 
-I am Digital Entrepreneur | Educator | Programming Enthusiast | Problem Solver & Founder - Learn with Mahabub
-Hey, there 👋 I am MD. Mahabub Alom from Bangladesh. I'm a self-taught web developer who always passionate about expanding and broadening technical knowledge by learning new technologies. I am always eager to understand how and why of the technologies before deep diving into it. Currently, I am expanding my knowledge on JavaScript, Typescrit & Python
+I’m Mahabub, Founder & CEO of TechnoGenix Solutions, where I help businesses achieve sustainable growth through custom-built, scalable software.
 
-- 🌱 I’m currently learning Phython & Nestjs
+With a strong background as a Full Stack Software Engineer, I specialize in designing and delivering high-quality web applications built on MERN and PERN stacks. My work covers the entire product lifecycle — from robust API architecture to clean, intuitive front-end design.
+
+I combine technical expertise with a clear focus on business outcomes. My goal is simple: develop technology that improves efficiency, creates real value, and supports clients in scaling their operations with confidence.
+
+At TechnoGenix, I lead diverse teams and manage projects end-to-end, ensuring every solution aligns with the client’s strategic vision.
+
+Key strengths:
+– Proven experience delivering custom software that drives measurable growth
+– Expertise in full stack development using React, Node.js, Express, MongoDB, PostgreSQL, Next.js, Redux, Prisma
+– Business-focused problem solving and practical execution
+– Commitment to building strong client partnerships and high-performing teams
+
+I’m always open to connecting with business owners, founders, and teams who are looking for a reliable technology partner to turn complex ideas into practical, scalable solutions.
+
+📩 Let’s connect and build what’s next.
+
+- 🌱 I’m currently learning GO and C#
 - 💬 Ask me about **Web Solutions**
 - 👯 I’m looking to collaborate on [Technogenix Solutions](technogenixsolutions.com)
 - 📫 How to reach me: info.mahabubalom23@gmail.com
