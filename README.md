@@ -40,12 +40,12 @@ I’m always open to connecting with business owners, founders, and teams who ar
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.facebook.com/freelancermahabubs/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
-<a href = "https://www.youtube.com/c/FreelancerMahabub/"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
+<a href = "https://www.facebook.com/themahabubalom/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+<a href = "https://www.youtube.com/c/themahabubalom/"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
 <a href = "https://www.youtube.com/@learnwithmahabub/videos"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
-<a href = "https://www.linkedin.com/in/freelancermahabubs/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/mahabubfans"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/freelancermahabubs/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/themahabubalom/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/themahabubalom"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/themahabubalom/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://leetcode.com/mdmahabubalom/"> <img width="44" height="44" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/> </a>
 <a href = "https://www.hackerrank.com/profile/mdmahabubalom/"> <img width="44" height="44" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"/> </a>
 <a href = "https://codeforces.com/profile/freelancermahabub/"> <img width="44" height="44" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-filled-tal-revivo.png" alt="external-codeforces-programming-competitions-and-contests-programming-community-logo-filled-tal-revivo"/> </a>
