@@ -21,7 +21,7 @@ I’m always open to connecting with business owners, founders, and teams who ar
 
 📩 Let’s connect and build what’s next.
 
-- 🌱 I’m currently learning GO and C#
+- 🌱 I’m currently learning Go and C#
 - 💬 Ask me about **Web Solutions**
 - 👯 I’m looking to collaborate on [Technogenix Solutions](technogenixsolutions.com)
 - 📫 How to reach me: info.mahabubalom23@gmail.com
